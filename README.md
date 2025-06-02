@@ -7,7 +7,8 @@ Nasa Earth Data Downloader Tool for ArcGIS Pro
    
 3. Correctly use the parameters in the toolbox. ![image](https://github.com/user-attachments/assets/e0d2ab21-b82e-4eb4-9f88-4e487f9de7bf)
 
-4. Log into earth data. (User and pass stored in plain text inside of the toolbox location) ![image](https://github.com/user-attachments/assets/41c6bd0e-c04d-4ac3-968d-a4ef8660819b)
+4. Log into earth data. (User and pass stored in plain text inside of the toolbox location) ![image](https://github.com/user-attachments/assets/f2195259-b312-4025-bdd8-d614d7c002cf)
+
    
 5. Click 'OK' and wait for tool to complete (Pop-Up window will close)
    
